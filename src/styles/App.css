@@ -1,0 +1,7 @@
+body {
+  display: flex;
+  flex-direction: column;
+  background-image: url('../images/M20-Trifid-Nebula-4096.jpg');
+  background-size: 100%;
+  text-align: center;
+}
